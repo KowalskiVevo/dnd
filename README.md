@@ -11,8 +11,8 @@
 Генератор городов - https://watabou.itch.io/medieval-fantasy-city-generator <br>
 Генератор мира - https://azgaar.github.io/Fantasy-Map-Generator/ <br>
 Генератор подземелья: 
-  1. https://www.kassoon.com/dnd/dungeon-map/
-  2. https://watabou.itch.io/one-page-dungeon
+  1. https://www.kassoon.com/dnd/dungeon-map/ <br>
+  2. https://watabou.itch.io/one-page-dungeon <br>
 Генератор персонажей - https://charbox.org/ <br>
 ## Приключения
 Сайт с переводами оффициальных приключений: https://www.dungeonsanddragons.ru/adventurers-league-приключения-для-5-редакции/ <br>
