@@ -15,3 +15,6 @@
   2. https://watabou.itch.io/one-page-dungeon
 ## Приключения
 Сайт с переводами оффициальных приключений: https://www.dungeonsanddragons.ru/adventurers-league-приключения-для-5-редакции/ <br>
+## Где поиграть?
+1. https://pages.roll20.net/dnd/
+2. https://store.steampowered.com/app/286160/Tabletop_Simulator/
