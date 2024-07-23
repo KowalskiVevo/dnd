@@ -14,3 +14,5 @@
 Генератор подземелья: 
   1. https://www.kassoon.com/dnd/dungeon-map/
   2. https://watabou.itch.io/one-page-dungeon
+## Приключения
+Сайт с переводами оффициальных приключений: https://www.dungeonsanddragons.ru/adventurers-league-приключения-для-5-редакции/ <br>
