@@ -3,9 +3,9 @@
 ## Описание репы
 Репозиторий хранящий книги, приключения и другие вспомогательные файлы для настольной игры "Dungeons and Dragons 5e"
 ## Генераторы
-Сайт с генераторами для мастера - https://tentaculus.ru/
-Генератор лута - https://dnd.su/loot/
+Сайт с генераторами для мастера - https://tentaculus.ru/ <br>
+Генератор лута - https://dnd.su/loot/ <br>
 ## Карты
-Генератор городов - https://watabou.itch.io/medieval-fantasy-city-generator
-Генератор мира - https://azgaar.github.io/Fantasy-Map-Generator/
-Генератор подземелья - https://www.kassoon.com/dnd/dungeon-map/
+Генератор городов - https://watabou.itch.io/medieval-fantasy-city-generator <br>
+Генератор мира - https://azgaar.github.io/Fantasy-Map-Generator/ <br>
+Генератор подземелья - https://www.kassoon.com/dnd/dungeon-map/ <br>
