@@ -5,7 +5,8 @@
 ## Сайты с генераторами
   1. https://tentaculus.ru/
   2. https://stormtower.ru/
-## Типовые генераторы
+## Типовые генераторы и калькуляторы
+Калькулятор сложности боевой сцены - https://dnd.su/encounter_difficulty/ <br>
 Генератор лута - https://dnd.su/loot/ <br>
 Генератор имен персонажей - https://stormtower.ru/generator/generator-imen-personazhey.html <br>
 Генератор городов - https://watabou.itch.io/medieval-fantasy-city-generator <br>
