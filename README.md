@@ -28,3 +28,5 @@
 ## Где поиграть?
 1. https://pages.roll20.net/dnd/
 2. https://store.steampowered.com/app/286160/Tabletop_Simulator/
+3. https://store.steampowered.com/app/720620/TaleSpire/
+4. https://www.owlbear.rodeo/
